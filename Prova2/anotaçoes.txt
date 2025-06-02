@@ -1,0 +1,25 @@
+poo 2 prova 1
+
+aluno: jessica regina dos santos
+matrícula: 22100626
+
+data: 04/05/23
+
+anotações
+
+- sistema de locação de automóveis ✔️
+
+- clientes, veículos, funcionários (classes principais) ✔️
+
+- armazenar dados em listas ✔️
+
+- uml de classes ✔️
+
+- herança, composição, agregação ✔️
+
+- criação, edição, consulta , remoção das informações e login (métodos principais) ✔️
+
+- manual de inicialização do sistema ✔️
+
+- comentários ✔️
+
