@@ -1,0 +1,27 @@
+
+Breve manual do sistema:
+
+O sistema criado pela aluna Jessica Regina dos Santos têm como utilidade simular o conjunto de serviços disponíveis em uma
+Locadora de Veículos.
+
+O sistema é divido em 4 partes principais:
+- Dados dos clientes
+- Dados dos veículos
+- Dados dos funcionários
+- Página principal (onde os dados são manipulados)
+O.b.s: os dados utilizados pelo sistema são armazenados em suas respectivas listas.
+
+Cada indívido, independe da sua relação com a empresa, possui email e senha (alfanumérica) próprios. Com tais, ele fica live para realizar
+as ações que deseja dentro do sistema. Por exemplo, um gerente consegue remover/adicionar um novo funcionário; um novo cliente
+consegue fazer um novo aluguel, acessar seus dados, etc...
+O sistema foi inspirado em agencias reais, como a Localiza; logo, existe uma ampla gama de veículos no catálogo (são aproximadamente
+10 tipos de veículos, elétricos e a combustão, que moldam-se a necessidade do cliente). Tentando estimular a utilazação de carros
+elétricos pelos seus clientes, quando locados, veículos elétricos recebem desconto na seu preço final (soma das diárias) e veículos a combustão
+pagam uma taxa adicional.
+
+- Exemplo de eículos disponíveis para locação -
+Elétricos: compactos, economocios, sedans, furgões, executivos;
+A combustão: minivan, vans, 4x4s, de luxo, pickups;
+
+Os carros da frota devem ter no máximo 5 anos de uso e um cliente pode locar quantos carros quiser (também existem diversas formas de pagamento).
+
